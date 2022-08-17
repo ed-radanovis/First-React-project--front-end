@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# Application for user registration
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ <h2>Academic project full stack finished</h2>
+ <br>
+ > Result of the finished project. This project had as main objective, the creation of a user interface, where, in a certain platform, their registrations are carried out and sent to the server for storage and future consultations.
+ <br>
+ <br>
+<img src="./src/assets/_Print finished project.png" alt="page-image" width="1000px">
+<img src="./src/assets/_Print finished project2.png" alt="page-image" width="1000px">
 
-## Available Scripts
+### Adjustments and improvements
 
-In the project directory, you can run:
+The project was fully completed and the following resources were used:
 
-### `npm start`
+- [x] ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- [x] ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
+- [x] ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- [x] ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC) (for design consultation)
+- [x] ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia) (for test)
+- [x] ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=Yarn)
+- [x] ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+- [x] ![Nodemon](https://img.shields.io/badge/-Nodemon-333333?style=flat&logo=nodemon)
+- [x] ![styled-components](https://img.shields.io/badge/-styled%20components-333333?style=flat&logo=styled-components)
+- [x] ![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=Axios)
+- [x] ![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=React%20Router)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🤝 Collaborators
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/edmar-radanovis-0130b611a/">
+        <img src="./src/assets/_foto perfil.jpeg" width="130px;" alt="Foto de Edmar Radanovis"/><br>
+        <sub>
+          <b>Edmar Radanovis</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+       <a href="https://rodolfomori.com.br/devclub/">
+        <img src="./src/assets/_DevClub.png" width="130px;" alt="Logo DevClub"/><br>
+        <sub>
+          <b>DevClub</b>
+        </sub>
+      </a>
+  </tr>
+</table>
 
-### `npm test`
+[⬆ Voltar ao topo](#application-for-user-registration)<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
