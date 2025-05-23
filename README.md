@@ -24,21 +24,21 @@ The project was fully completed and the following resources were used:
 - [x] ![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=Axios)
 - [x] ![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=React%20Router)
 
-## 🤝 Collaborators
+#### 🤝 Collaborators
 
 <table>
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/edmar-radanovis-0130b611a/">
-        <img src="./src/assets/_foto perfil.jpeg" width="130px;" alt="Foto de Edmar Radanovis"/><br>
+        <img src="./src/assets/_foto perfil.jpeg" width="50px;" alt="Foto de Edmar Radanovis"/><br>
         <sub>
-          <b>Edmar Radanovis</b>
+          <b>Edmar<br>Radanovis</b>
         </sub>
       </a>
     </td>
     <td align="center">
        <a href="https://rodolfomori.com.br/devclub/">
-        <img src="./src/assets/_DevClub.png" width="130px;" alt="Logo DevClub"/><br>
+        <img src="./src/assets/_DevClub.png" width="50px;" alt="Logo DevClub"/><br>
         <sub>
           <b>DevClub</b>
         </sub>
